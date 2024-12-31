@@ -1,0 +1,31 @@
+ Step 1: Go to https://console.cloud.google.com
+
+ Step 2: Create New Project
+
+ Step 3: After Creating Project, select the Project
+
+  Step 4: Navigate to  "APIs & Service" -> "Library"
+
+  Step 5: Then Search By "Web Search Indexing API", from search result select "Web Search Indexing API"
+
+  Step 6: After select "Web Search Indexing API", click "Enable" then click "Manage"
+
+  Step 7: Then Navigate to "Credential" 
+  
+  Step 8: Then click "Create Credentials" and select "Service account"
+
+  Step 9: Then fill the Service account details form (-Service account name)  (-Service account ID) (-Service account Description ) then press "Create And Continue" button 
+  
+  Step 10: Then fill the Grant this service account access to project form by select "Select a Roal". from "Select a Roal" select "Basic". form "Basic" select "Owner". Then press "Continue" button 
+
+  Step 11: Avoid Grant users access to this service account (optional) form and press "Done" button
+                    
+  Step 12: Now select you created "Service Accounts" and click on the "Service Accounts mail"
+
+  Step 13: Now Select "Key" tab and form "Key" tab select "Add Key" button and then select "Create new key" and then select "JSON" and  then click "Create" button. After that a JSON file will be download for useing in Node.js applicaiton. 
+
+  Step 14: Now go to "Google Search Console" account and go to "Settings" page
+
+  Step 15: Then Click "Add User" button. then add User email wich will taken form "Google Cloud Console"  and Select "Permission" as "Owner" and click on "Add" button.After
+
+  ================ "DONE" ================
